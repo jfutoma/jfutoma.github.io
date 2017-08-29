@@ -1,7 +1,11 @@
 # Bio
-I'm a 5th year PhD candidate in [Statistical Science](https://stat.duke.edu) at [Duke](https://duke.edu), and I'm funded by an [NDSEG Fellowship](https://ndseg.asee.org/).  I work in the intersection of machine learning and healthcare under the supervision of [Katherine Heller](http://www2.stat.duke.edu/~kheller/). Before that, I obtained my AB in Mathematics (2013) from Dartmouth College, and wrote an honors thesis under the supervision of Daniel Rockmore.
+I'm a 5th year PhD candidate in [Statistical Science](https://stat.duke.edu) at [Duke](https://duke.edu), and I'm funded by an [NDSEG Fellowship](https://ndseg.asee.org/).  I work in the intersection of machine learning and healthcare under the supervision of [Katherine Heller](http://www2.stat.duke.edu/~kheller/). 
 
-My email address is ``jdf38@duke.edu``. 
+I'm especially interested in deploying machine learning models into actual clinical practice to help doctors provide better care and improve patient outcomes.  To that end, I collaborate a lot with the Duke Institute for Health Innovation [DIHI](http://www.dihi.org/), and we're working to deploy a model I developed for early detection of sepsis into the Duke Health System. We're on track to launch our SepsisWatch app this fall, and we'll be running a clinical trial to demonstrate that it improves upon current standard care! In the past I've built models for predicting disease progression and adverse events in chronic kidney disease patients, and models for surgical complications (this project has now spun into a [startup](http://kelahealth.com/)).
+
+Before Duke, I obtained my AB in [Mathematics](https://math.dartmouth.edu/) (2013) from [Dartmouth College](http://home.dartmouth.edu/), where I wrote an honors thesis under the supervision of [Daniel Rockmore](http://www.cs.dartmouth.edu/~rockmore/).
+
+My email address is ``jdf38@duke.edu``. You can find my CV [here](https://github.com/jfutoma/jfutoma.github.io/blob/master/CV.pdf).
 
 # Publications
 
@@ -17,7 +21,7 @@ My email address is ``jdf38@duke.edu``.
 1. **J. Futoma**, J. Morris, and J. Lucas. [“A Comparison of Models for Predicting Early Hospital Readmissions,”](http://www.sciencedirect.com/science/article/pii/S1532046415000969) Journal of Biomedical Informatics, vol. 56, pp. 229–238, 2015.
 
 ## Workshop Papers 
-1. **J. Futoma** and J. Lucas. “Predicting Early Hospital Readmissions using Electronic Health Records,” in *NIPS 2014 Workshop on Machine Learning for Clinical Data, Healthcare and Genomics*, Montreal, Canada, Dec 2014.
+1. **J. Futoma** and J. Lucas. [“Predicting Early Hospital Readmissions using Electronic Health Records,”](https://github.com/jfutoma/jfutoma.github.io/blob/master/papers/NIPS2014_Workshop_Readmissions.pdf) in *NIPS 2014 Workshop on Machine Learning for Clinical Data, Healthcare and Genomics*, Montreal, Canada, Dec 2014.
 
 ## Other Papers 
 1. **J. Futoma**. [“Scalable Inference Algorithms for Clustering Large Networks,”](https://math.dartmouth.edu/theses/undergrad/2013/SeniorThesisFutoma.pdf) *Dartmouth College Senior Thesis*, Jun 2013.
