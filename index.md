@@ -1,7 +1,7 @@
 # Bio
 I'm a 5th year PhD candidate in [Statistical Science](https://stat.duke.edu) at [Duke](https://duke.edu), and I'm funded by an [NDSEG Fellowship](https://ndseg.asee.org/).  I work in the intersection of machine learning and healthcare under the supervision of [Katherine Heller](http://www2.stat.duke.edu/~kheller/). 
 
-I'm especially interested in deploying machine learning models into actual clinical practice to help doctors provide better care and improve patient outcomes.  To that end, I collaborate a lot with the Duke Institute for Health Innovation [DIHI](http://www.dihi.org/), and we're working to deploy a model I developed for early detection of sepsis into the Duke Health System. We're on track to launch our SepsisWatch app this fall, and we'll be running a clinical trial to demonstrate that it improves upon current standard care! In the past I've built models for predicting disease progression and adverse events in chronic kidney disease patients, and models for surgical complications (this project has now spun into a [startup](http://kelahealth.com/)).
+I'm especially interested in deploying machine learning models into actual clinical practice to help doctors provide better care and improve patient outcomes.  To that end, I collaborate a lot with the [Duke Institute for Health Innovation](http://www.dihi.org/), and we're working to deploy a model I developed for early detection of sepsis into the Duke Health System. We're on track to launch our SepsisWatch app this fall, and we'll be running a clinical trial to demonstrate that it improves upon current standard care! In the past I've built models for predicting disease progression and adverse events in chronic kidney disease patients, and models for surgical complications (this project has now spun into a [startup](http://kelahealth.com/)).
 
 Before Duke, I obtained my AB in [Mathematics](https://math.dartmouth.edu/) (2013) from [Dartmouth College](http://home.dartmouth.edu/), where I wrote an honors thesis under the supervision of [Daniel Rockmore](http://www.cs.dartmouth.edu/~rockmore/).
 
@@ -24,14 +24,26 @@ My email address is ``jdf38@duke.edu``. You can find my CV [here](https://github
 1. **J. Futoma** and J. Lucas. [“Predicting Early Hospital Readmissions using Electronic Health Records,”](https://github.com/jfutoma/jfutoma.github.io/blob/master/papers/NIPS2014_Workshop_Readmissions.pdf) in *NIPS 2014 Workshop on Machine Learning for Clinical Data, Healthcare and Genomics*, Montreal, Canada, Dec 2014.
 
 ## Other Papers 
-1. **J. Futoma**. [“Scalable Inference Algorithms for Clustering Large Networks,”](https://math.dartmouth.edu/theses/undergrad/2013/SeniorThesisFutoma.pdf) *Dartmouth College Senior Thesis*, Jun 2013.
+1. Z. Sun, **J. Futoma**, M. Sendak, E. Lorenzi, S. Brown, O. Huang, K. Heller, J. Thacker, C. Mantyh,
+and E. Huang. “Precision Medicine in Point-Of-Care Management of Surgical Complications” (Contributed 1 page paper), in *NIH-IEEE 2015 Strategic Conference on Healthcare Innovations and Point-of-Care Technologies for Precision Medicine*, Bethesda, MD, Nov 2015.
+2. **J. Futoma**. [“Scalable Inference Algorithms for Clustering Large Networks,”](https://math.dartmouth.edu/theses/undergrad/2013/SeniorThesisFutoma.pdf) *Dartmouth College Senior Thesis*, Jun 2013.
 
 ## Papers in Preparation 
 1. Z. Sun, O. Huang, E. Lorenzi, B. Chang, M. Turner, **J. Futoma**, T. Li, K. Heller, C. Mantyh, and E. Huang. “Validation and Implementation of Wide and Deep Learning for Surgical Risk Prediction At the Point-Of-Care”.
 
 # Talks 
+* [“An Improved Multi-Output Gaussian Process RNN with Real-Time Validation for Early Sepsis Detection,”](https://github.com/jfutoma/jfutoma.github.io/blob/master/talks/MLHC_2017.pdf), MLHC 2017 Spotlight
+* [“Learning to Detect Sepsis with a Multitask Gaussian Process RNN Classifier,”](https://github.com/jfutoma/jfutoma.github.io/blob/master/talks/ICML_2017.pdf): ICML 2017 Oral Presentation
+* [“Learning to Detect Sepsis with a Multitask Gaussian Process RNN Classifier,”](https://github.com/jfutoma/jfutoma.github.io/blob/master/talks/INFORMS_2017.pdf): INFORMS Healthcare 2017 Oral Presentation
+* [“Predicting Disease Progression with a Model for Multivariate Longitudinal Clinical Data,”](https://github.com/jfutoma/jfutoma.github.io/blob/master/talks/MLHC_2016.pdf): MLHC 2016 Spotlight
+* [“Scalable Joint Modeling of Longitudinal and Point Process Data for Disease Trajectory Prediction and Improving Management of Chronic Kidney Disease,”](https://github.com/jfutoma/jfutoma.github.io/blob/master/talks/UAI_Baysm_2016.pdf), UAI 2016 Workshop on Bayesian Applications *Invited Talk*; Bayesian Young Statisticians Meeting 2016, Oral Presentation
 
 # Posters
+* [“An Improved Multi-Output Gaussian Process RNN with Real-Time Validation for Early Sepsis Detection,”](https://github.com/jfutoma/jfutoma.github.io/blob/master/posters/MLHC_2017.pdf), MLHC 2017
+* [“Learning to Detect Sepsis with a Multitask Gaussian Process RNN Classifier,”](https://github.com/jfutoma/jfutoma.github.io/blob/master/posters/ICML_2017.pdf), ICML 2017 
+* [“Predicting Disease Progression with a Model for Multivariate Longitudinal Clinical Data,”](https://github.com/jfutoma/jfutoma.github.io/blob/master/posters/MLHC_2016.pdf), MLHC 2016
+* [“Scalable Joint Modeling of Longitudinal and Point Process Data for Disease Trajectory Prediction and Improving Management of Chronic Kidney Disease,”](https://github.com/jfutoma/jfutoma.github.io/blob/master/posters/UAI_2016.pdf), ISBA 2016 World Meeting; UAI 2016
+* “Developing a Data-Driven Workflow for Population Health Rounding”, Society of General Internal Medicine 2016
 
 # Software
 * [MGP-RNN](https://github.com/jfutoma/MGP-RNN)
